@@ -1,6 +1,6 @@
 # cof
 
-A new Flutter project.
+Splash Screen V1 : https://drive.google.com/file/d/19Ef2qTcXRSw6jstm4FXFD0pDrOCsngXi/view?usp=sharing
 
 ## Getting Started
 
